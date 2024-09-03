@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+    padding: 20px;
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+header {
+    background: linear-gradient(to right, #1f182c, #306fe4, #1f182c);
+    color: white;
+    padding-top: 30px;
+    min-height: 70px;
+    border-bottom: #030441 3px solid;
+    text-align: center;
+}
+header img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+}
+h1, h2 {
+    margin-bottom: 20px;
+}
+section {
+    margin-bottom: 20px;
+    padding: 20px;
+    background: linear-gradient(to right, #ffffff, #c0d2f4, #ffffff);
+}
+#experiencia li, #educacion li {
+    margin-bottom: 10px;
+}
+
